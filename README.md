@@ -19,21 +19,6 @@ Tengo experiencia trabajando con **Python, SQL, Excel y Power BI** en proyectos 
 
 ---
 
-## 📂 Proyectos destacados
-🔹 **Telecomunicaciones – Identificación de operadores ineficaces**  
-Análisis de datos operativos para detectar ineficiencias y oportunidades de mejora.
-
-🔹 **Zuber – Impacto del clima en patrones de viaje**  
-Evaluación del efecto de condiciones climáticas en la frecuencia y duración de viajes.
-
-🔹 **Model Fitness – Retención y predicción de churn**  
-Análisis de comportamiento de clientes y factores clave de abandono.
-
-🔹 **Pruebas A/B – Sistema de recomendaciones**  
-Evaluación estadística del impacto de un nuevo embudo de conversión.
-
----
-
 ## 🔗 Enlaces
 - 💼 **LinkedIn:** https://www.linkedin.com/in/joaquín-rafael-segura  
 
